@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [FX Controller](fxcontroler.com)
 
-- 🌱 I’m currently learning **Python, Flask, Django,**
+- 🌱 I’m currently learning **Flask, Django,**
 
 - 💬 Ask me about **Full Stack | Frontend - Backend | Api Integrations | DB Management**
 
